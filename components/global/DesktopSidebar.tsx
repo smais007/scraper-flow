@@ -28,6 +28,10 @@ const DesktopSidebar = () => {
   return (
     <div>
       <h1>Hwllo</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad similique
+        deleniti veritatis illo nisi cupiditate quis nostrum esse rem libero?
+      </p>
     </div>
   );
 };
