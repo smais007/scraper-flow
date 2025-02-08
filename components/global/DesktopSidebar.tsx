@@ -25,7 +25,11 @@ const routes = [
 ];
 
 const DesktopSidebar = () => {
-  return <div>DesktopSidebar</div>;
+  return (
+    <div>
+      <h1>Hwllo</h1>
+    </div>
+  );
 };
 
 export default DesktopSidebar;
